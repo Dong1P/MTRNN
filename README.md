@@ -1,8 +1,8 @@
 # Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training (Accepted for ECCV 2020 Spotlight)
-[paper](https://arxiv.org/abs/1911.07410)\\
+[paper](https://arxiv.org/abs/1911.07410)\
 
-We provide PyTorch implementations for MTRNN.\\
-Note: The current software works well with PyTorch 0.41+.\\
+We provide PyTorch implementations for MTRNN.\
+Note: The current software works well with PyTorch 0.41+.\
 # Prerequisites
 Linux or macOS
 Python 3
